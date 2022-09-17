@@ -17,6 +17,7 @@ BuildRequires:	pkgconfig(Qt5Gui)
 BuildRequires:	pkgconfig(Qt5Test)
 BuildRequires:	pkgconfig(Qt5Qml)
 BuildRequires:	pkgconfig(Qt5QuickControls2)
+BuildRequires:	pkgconfig(Qt5Multimedia)
 Suggests:	plasma-bigscreen
 Suggests:	plasma-remotecontrollers
 Supplements:	plasma-bigscreen
