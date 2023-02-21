@@ -2,7 +2,7 @@
 
 Summary:	Full screen media player with remote control interface
 Name:		plank-player
-Version:	5.27.0
+Version:	5.27.1
 Release:	1
 License:	LGPL
 Group:		System/Libraries
