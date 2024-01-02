@@ -3,7 +3,7 @@
 Summary:	Full screen media player with remote control interface
 Name:		plank-player
 Version:	5.27.10
-Release:	1
+Release:	2
 License:	LGPL
 Group:		System/Libraries
 Url:		http://plasma-bigscreen.org/
